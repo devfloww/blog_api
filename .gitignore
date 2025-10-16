@@ -1,3 +1,5 @@
+*.env
+
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -10,4 +12,3 @@ wheels/
 .venv
 
 # env
-.env
